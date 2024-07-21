@@ -1,0 +1,11 @@
+:root {
+    --custom-background-color: black;
+}
+
+.bg-dark {
+    background-color: var(--custom-background-color) !important;
+}
+
+.nav-link.active {
+    background-color: var(--custom-background-color) !important;
+}
